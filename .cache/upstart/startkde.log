@@ -1,0 +1,484 @@
+startkde: Starting up...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kbuildsycoca4 running...
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusObjectPath: invalid path ""
+QObject::connect: Cannot connect (null)::deviceFound(Device*) to BlueDevilDaemon::deviceFound(Device*)
+QObject::connect: Cannot connect QTimer::timeout() to (null)::stopDiscovery()
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kded(2770) LayoutMemoryPersister::restoreFromFile: Failed to open layout memory xml file for reading "/home/prop2017/.kde/share/apps/kded/session/keyboard/layout_memory.xml" error: 5 
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+kded(2770) ProfilesWatcher::scanHomeDirectory: Icc path "/home/prop2017/.local/share/icc" does not exist 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.22'
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+QObject::connect: Cannot connect (null)::resourceScoreUpdated(QString, QString, QString, double) to NepomukPlugin::resourceScoreUpdated(QString, QString, QString, double)
+QObject::connect: Cannot connect (null)::recentStatsDeleted(QString, int, QString) to NepomukPlugin::deleteRecentStats(QString, int, QString)
+QObject::connect: Cannot connect (null)::earlierStatsDeleted(QString, int) to NepomukPlugin::deleteEarlierStats(QString, int)
+kded(2770) Output::setPath: Invalid interface "/org/freedesktop/ColorManager/devices/xrandr_BenQ_G925HDA_9AA04338SL0_prop2017_1001" "" 
+kactivitymanagerd(2975)/nepomuk (library): Could not find virtuoso to connect to. Aborting 
+QDBusObjectPath: invalid path ""
+QDBusObjectPath: invalid path ""
+kded(2770) ColorD::addOutput: Failed to register device: "device id 'xrandr-BenQ G925HDA-9AA04338SL0' already exists" 
+kded(2770) PowerDevil::Core::loadProfile: The profile  "AC" tried to activate "DimDisplay" a non existent action. This is usually due to an installation problem or to a configuration problem. or simlpy the action is not supported 
+kded(2770) ProfileUtils::createIccProfile: EDID ICC Profile already exists "/home/prop2017/.local/share/icc/edid-684e34d60f5800c8682e575dc8697a2d.icc" 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: No such file or directory
+QFileSystemWatcher: failed to add paths: /home/prop2017/.kde/share/config/activitymanager-pluginsrc
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+QCoreApplication::sendPostedEvents: Cannot send posted events for objects in another thread
+OpenGL vendor string:                   NVIDIA Corporation
+OpenGL renderer string:                 GeForce 6150SE nForce 430/integrated/SSE2
+OpenGL version string:                  2.1.2 NVIDIA 304.135
+OpenGL shading language version string: 1.20 NVIDIA via Cg compiler
+Driver:                                 NVIDIA
+Driver version:                         304.135
+GPU class:                              Unknown
+OpenGL version:                         2.1.2
+GLSL version:                           1.20
+X server version:                       1.15.1
+Linux kernel version:                   3.13
+Direct rendering:                       yes
+Requires strict binding:                no
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusObjectPath: invalid path ""
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+Object::connect: No such signal QDBusAbstractInterface::StateChanged(uint)
+QGraphicsLinearLayout::insertItem: cannot insert null item
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+QObject::connect: Cannot connect (null)::update(QRectF) to Panel::updateRect(QRectF)
+trying to alter state of unknown activity!!
+trying to alter state of unknown activity!!
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+========================>  7 0
+static bool QDeclarativeMetaType::isModule(const QByteArray&, int, int) Qt 4.7 import detected; please note that Qt 4.7 is directly reusable as QtQuick 1.x with no code changes. Continuing, but startup time will be slower. 
+plasma-netbook(3021): Communication problem with  "plasma-netbook" , it probably crashed. 
+Error message was:  "org.freedesktop.DBus.Error.NoReply" : " "Message did not receive a reply (timeout by message bus)" " 
+
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+trying to alter state of unknown activity!!
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:103: TypeError: Result of expression 'listView' [null] is not an object.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:175: ReferenceError: Can't find variable: sectionsRepeater
+file:///usr/lib/kde4/imports/org/kde/plasma/components/SectionScroller.qml:103: Error: Cannot assign [undefined] to QString
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/notifier/contents/ui/devicenotifier.qml:224:13: QML QDeclarativeListView_QML_58: Possible anchor loop detected on fill.
+plasma-desktop(3013)/libplasma Plasma::isPluginVersionCompatible: unversioned plugin detected, may result in instability 
+QFile::copy: Empty or null file name
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+process 3064: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1263.
+This is normally a bug in some application using the D-Bus library.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+
+ERROR: Error querying target relations
+
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+New PolkitAgentListener  0xafc620 
+Adding new listener  PolkitQt1::Agent::Listener(0xcabe10) for  0xafc620 
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:209:21: QML TextEdit: Possible anchor loop detected on fill.
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+Loading configuration plugins
+QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop 
+blueman-applet version 1.23 starting
+klipper(3103) Klipper::loadHistory: Failed to load history resource. Clipboard history cannot be read. :  History file does not exist 
+Using gconf config backend
+Using gconf config backend
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+Using gconf config backend
+No Nepomuk data found
+nepomukbaloomigrator(3078): Communication problem with  "nepomukbaloomigrator" , it probably crashed. 
+Error message was:  "org.freedesktop.DBus.Error.UnknownObject" : " "No such object path '/MainApplication'" " 
+
+I/O warning : failed to load external entity "/home/prop2017/.qalculate/eurofxref-daily.xml"
+I/O warning : failed to load external entity "/home/prop2017/.qalculate/eurofxref-daily.xml"
+Object::connect: No such signal org::freedesktop::UPower::DeviceAdded(QDBusObjectPath)
+Object::connect: No such signal org::freedesktop::UPower::DeviceRemoved(QDBusObjectPath)
+Application '/usr/bin/nepomukstorage ' exited normally...
+const QDBusArgument& operator>>(const QDBusArgument&, DeviceList&) 
+Dev(
+  id: "/sys/devices/pci0000:00/0000:00:0d.0"
+  modalias: "pci:v000010DEd000003D0sv0000103Csd00002A99bc03sc00i00"
+  model: "C61 [GeForce 6150SE nForce 430]"
+  vendor: "NVIDIA Corporation"
+  driver("xserver-xorg-video-nouveau" recommended[false] free[true] fromDistro[true] builtin[true] manualInstall[false] fuzzyActive[false] package[0x0])
+  driver("nvidia-173" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+  driver("nvidia-304" recommended[true] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+Run releasechecker:  "/usr/share/kde4/apps/muonapplicationnotifier/releasechecker" 
+Found a release
+checked for upgrades and return with  0 
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:209:21: QML TextEdit: Possible anchor loop detected on fill.
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:161:9: QML QDeclarativeItem_QML_141: Binding loop detected for property "width"
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:161:9: QML QDeclarativeItem_QML_141: Binding loop detected for property "width"
+kwin(3003) KWin::GlxBackend::present: 
+It seems you are using the nvidia driver without triple buffering
+You must export __GL_YIELD="USLEEP" to prevent large CPU overhead on synced swaps
+Preferably, enable the TripleBuffer Option in the xorg.conf Device
+For this reason, the tearing prevention has been disabled.
+See https://bugs.kde.org/show_bug.cgi?id=322060
+ 
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:209:21: QML TextEdit: Possible anchor loop detected on fill.
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:209:21: QML TextEdit: Possible anchor loop detected on fill.
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasmapackage:/ui/NotificationDelegate/NotificationDelegate.qml:163:13: QML Item: Binding loop detected for property "height"
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3658): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3658): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:161:9: QML QDeclarativeItem_QML_141: Binding loop detected for property "width"
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:161:9: QML QDeclarativeItem_QML_141: Binding loop detected for property "width"
+file:///usr/lib/kde4/imports/org/kde/plasma/components/TabBar.qml:150:5: QML Item: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:203:5: QML ListItem: Binding loop detected for property "height"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:205:9: QML TabBar: Binding loop detected for property "width"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:205:9: QML TabBar: Binding loop detected for property "width"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:203:5: QML ListItem: Binding loop detected for property "height"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:205:9: QML TabBar: Binding loop detected for property "width"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/Notifications.qml:205:9: QML TabBar: Binding loop detected for property "width"
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+file:///usr/share/kde4/apps/plasma/plasmoids/org.kde.notifications/contents/ui/main.qml:139:9: QML Flickable: Possible anchor loop detected on fill.
+1501515509037	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1501515509066	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1501515509083	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1501515509096	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1501515509130	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+[GFX1-]: Failed to allocate a surface due to invalid size (CDT) Size(0,0)
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+file:///usr/share/kde4/apps/kwin/tabbox/thumbnails/contents/ui/main.qml:139:9: QML Image: Failed to get image from provider: image://client/-1/-1720059815-0
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+QPainter::begin: Paint device returned engine == 0, type: 2
+QPainter::end: Painter not active, aborted
+QPainter::begin: Paint device returned engine == 0, type: 2
+QPainter::end: Painter not active, aborted
+QPainter::begin: Paint device returned engine == 0, type: 2
+QPainter::end: Painter not active, aborted
+QPainter::begin: Paint device returned engine == 0, type: 2
+QPainter::end: Painter not active, aborted
+
+(firefox:3592): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+process 3064: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1263.
+This is normally a bug in some application using the D-Bus library.
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 
+process 3064: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1263.
+This is normally a bug in some application using the D-Bus library.
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3592): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+plasma-desktop(3013)/plasma StatusNotifierItemSource::refreshCallback: DBusMenu disabled for this application 

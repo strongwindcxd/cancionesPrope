@@ -1,0 +1,45 @@
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+
+** (at-spi2-registryd:2694): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:2694): WARNING **: Unable to register client with session manager
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+
+** (process:3025): WARNING **: Could not initialize NMClient /org/freedesktop/NetworkManager: The name org.freedesktop.NetworkManager was not provided by any .service files
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='org.kde.kuiserver'
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+Successfully activated service 'org.kde.kuiserver'
+Activating service name='org.freedesktop.Telepathy.Client.KTp.Approver'
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+Activating service name='org.freedesktop.Telepathy.Client.KTp.KdedIntegrationModule'
+Successfully activated service 'org.freedesktop.Telepathy.Client.KTp.Approver'
+Activating service name='org.kubuntu.DriverManager'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Successfully activated service 'org.kubuntu.DriverManager'
+Activating service name='org.openobex'
+Successfully activated service 'org.openobex'
+Failed to activate service 'org.freedesktop.Telepathy.Client.KTp.KdedIntegrationModule': timed out
+Activating service name='org.gnome.evince.Daemon'
+Successfully activated service 'org.gnome.evince.Daemon'
+RegisterDocument registered owner ':1.86' for URI 'file:///home/prop2017/la.tex'
+Watch name':1.86' appeared with owner ':1.86'
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+UnregisterDocument URI 'file:///home/prop2017/la.tex'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
